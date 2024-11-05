@@ -452,7 +452,7 @@
             <div class="card-body">
               <h5 class="card-title">Selamat anda sudah dapat akses main content premium , anda dapat memasukan passcode yang sudah anda miliki di halaman berikutnya.
               <div class="d-grid gap-2 mt-3">
-                <a href="ManNoSakura/mannosakura-dasboard.html" class="btn btn-primary" type="button">Agree & Access Now</a>
+                <a href="mannosakura-dasboard.html" class="btn btn-primary" type="button">Agree & Access Now</a>
               </div>
 
             </div>
