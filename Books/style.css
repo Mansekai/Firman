@@ -6,7 +6,7 @@
 }
 
 body{
-  height: 100%;
+  min-height: 100vh;
   background-color: aliceblue;
   display: flex;
   justify-content: center;
@@ -16,8 +16,8 @@ body{
 
 .card{
   position: relative;
-  width: 300px;
-  height: 400px;
+  width: 250px;
+  height: 350px;
   background-color: blanchedalmond;
   border-radius: 10px;
   border-top-right-radius: 10px;
